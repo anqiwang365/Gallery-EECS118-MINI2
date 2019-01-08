@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.img-zi {
+    width: 350px;
+} .content-box{
+    border: 1px solid #5e5e5e;
+    border-top: none;
+    padding: 1px;
+    margin-bottom: 20px;
+} .content-box h2{
+    font-size: 15px;
+    line-height: 30px;
+    font-family: 微软雅黑;
+    margin-top: 0px;
+} .content-box span, .content-box time{
+    margin-right: 10px;
+    color: #828282;
+} .content-box img {
+    width: 32px;
+} #main-content{
+    margin: 20px 0px;
+}
+.media-box{
+    height: 260px;
+    overflow: hidden;
+}
